@@ -1,0 +1,14 @@
+D:\Visual Saves\SexyNugets1\SexyNugets1\bin\Debug\SexyNugets1.exe.config
+D:\Visual Saves\SexyNugets1\SexyNugets1\bin\Debug\SexyNugets1.exe
+D:\Visual Saves\SexyNugets1\SexyNugets1\bin\Debug\SexyNugets1.pdb
+D:\Visual Saves\SexyNugets1\SexyNugets1\obj\Debug\SexyNugets1.csprojAssemblyReference.cache
+D:\Visual Saves\SexyNugets1\SexyNugets1\obj\Debug\SexyNugets1.csproj.CoreCompileInputs.cache
+D:\Visual Saves\SexyNugets1\SexyNugets1\obj\Debug\SexyNugets1.exe
+D:\Visual Saves\SexyNugets1\SexyNugets1\obj\Debug\SexyNugets1.pdb
+D:\BACKUP (OLEKSII)\Visual Saves\SexyNugets1\SexyNugets1\bin\Debug\SexyNugets1.exe.config
+D:\BACKUP (OLEKSII)\Visual Saves\SexyNugets1\SexyNugets1\bin\Debug\SexyNugets1.exe
+D:\BACKUP (OLEKSII)\Visual Saves\SexyNugets1\SexyNugets1\bin\Debug\SexyNugets1.pdb
+D:\BACKUP (OLEKSII)\Visual Saves\SexyNugets1\SexyNugets1\obj\Debug\SexyNugets1.csprojAssemblyReference.cache
+D:\BACKUP (OLEKSII)\Visual Saves\SexyNugets1\SexyNugets1\obj\Debug\SexyNugets1.csproj.CoreCompileInputs.cache
+D:\BACKUP (OLEKSII)\Visual Saves\SexyNugets1\SexyNugets1\obj\Debug\SexyNugets1.exe
+D:\BACKUP (OLEKSII)\Visual Saves\SexyNugets1\SexyNugets1\obj\Debug\SexyNugets1.pdb
